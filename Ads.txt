@@ -1,0 +1,7 @@
+fls-eu.amazon-adsystem.com
+secure-ds.serving-sys.com
+aax-eu.amazon-adsystem.com
+aax.amazon-adsystem.com
+c.amazon-adsystem.com
+s.amazon-adsystem.com
+ad.doubleclick.net
